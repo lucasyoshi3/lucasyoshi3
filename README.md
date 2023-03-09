@@ -1,6 +1,6 @@
 ![Alt Text](https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6)
 
-[![](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=glean)](https://replit.com/@lucasyoshi) [![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/34s2JJD2gAzAXIOjp6t9Gy)
+[![](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=glean)](https://replit.com/@lucasyoshi) 
 
 <img align="center" alt="lucas-java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> <img align="center" alt="lucas-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
